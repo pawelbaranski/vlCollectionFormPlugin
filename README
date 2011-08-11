@@ -1,0 +1,4 @@
+It allows to work with dynamically generated embedded forms in main form. 
+
+It supports embedded forms base on relation (Doctrine) as well as user defined forms 
+that are not connected to any model
