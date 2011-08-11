@@ -124,7 +124,7 @@ class vlDoctrineCollectionForm extends vlCollectionForm
         }
         else
         {
-            throw new Exception("Model can't be resolved, provide more options");
+            throw new Exception("Model can't be resolved, you must provide more options");
         }
     }
     
